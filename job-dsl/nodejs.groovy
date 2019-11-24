@@ -13,7 +13,7 @@ job('NodeJS_DSL_example') {
                          // Manage Jenkins -> Configure Tools -> NodeJS Installations -> Name
     }
     steps {
-        shell("rm -rf customapi-integration)
+        shell("rm -rf customapi-integration")
 		shell("rm -rf docker-compose")
 		shell("rm -rf email-notifications")
 		shell("rm -rf jenkins-slave")
