@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jenkins
 
 This entire Jenkins Learning Material is prepared based on the below Udemy Jenkins Course.
@@ -5,3 +6,7 @@ This entire Jenkins Learning Material is prepared based on the below Udemy Jenki
 See https://www.udemy.com/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/?couponCode=JENKINS_GIT
 
 Intention of this repository is to write my own implementations on top of the course material learnings in future.
+=======
+Jenkins Course Clone from wardviaene
+# Learning_Jenkins
+>>>>>>> 9a225903079cbaaafa5e3af80fa617f7b61f9c52
