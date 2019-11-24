@@ -6,8 +6,8 @@ RUN mkdir -p /tmp/download && \
  rm -rf /tmp/download/docker/dockerd && \
  mv /tmp/download/docker/docker* /usr/local/bin/ && \
  rm -rf /tmp/download
- #rm -rf /tmp/download && \
- #groupadd -g 999 docker && \
- #usermod -aG staff,docker jenkins
+ # mkdir /home/narayanan && \
+ # useradd -u 501 -g staff narayanan && \
+ # chown -R narayanan:staff /home/narayanan
 
-#user jenkins
+user root
